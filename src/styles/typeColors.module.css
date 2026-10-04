@@ -1,0 +1,20 @@
+/* Each class sets --type-color for a Pokémon type; consumers use var(--type-color). */
+.normal { --type-color: #9fa19f; }
+.fire { --type-color: #e62829; }
+.water { --type-color: #2980ef; }
+.electric { --type-color: #d9a90b; }
+.grass { --type-color: #3fa129; }
+.ice { --type-color: #2fb5d4; }
+.fighting { --type-color: #ff8000; }
+.poison { --type-color: #9141cb; }
+.ground { --type-color: #915121; }
+.flying { --type-color: #6f9ed6; }
+.psychic { --type-color: #ef4179; }
+.bug { --type-color: #91a119; }
+.rock { --type-color: #afa981; }
+.ghost { --type-color: #704170; }
+.dragon { --type-color: #5060e1; }
+.dark { --type-color: #50413f; }
+.steel { --type-color: #60a1b8; }
+.fairy { --type-color: #ef70ef; }
+.unknown { --type-color: #68a090; }
